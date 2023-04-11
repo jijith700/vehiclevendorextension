@@ -1,0 +1,4 @@
+service demo-vehiclevendorextention-hal-1.0 /vendor/bin/hw/vendor.demo.vehiclevendorextention@1.0-service
+    class hal
+    user vehicle_network
+    group system
